@@ -4,7 +4,7 @@
     "release": true
   },
   "git": {
-    "commitMessage": "🔖release: v${version}"
+    "commitMessage": ":bookmark:release: v${version}"
   },
   "npm": {
     "publish": false
