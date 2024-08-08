@@ -40,5 +40,3 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/Globe-Earth-land-distortion-projec
 - 更新文档： 更新文档，说明破坏性变更的原因和影响，以及如何进行升级。
 - 提供迁移指南： 提供迁移指南，帮助用户进行升级。
 - 提前通知用户： 提前通知用户，告知他们即将发布破坏性变更，以便用户做好准备。
-
-## 新功能
