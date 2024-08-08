@@ -1,5 +1,16 @@
 
 
+## [4.0.0](https://github.com/jackchoumine/pics/compare/v3.0.0...v4.0.0) (2024-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* test 破坏性变更
+
+### 🐛问题修复
+
+* test breaking change ([3114949](https://github.com/jackchoumine/pics/commit/31149498db13d9ffe165ac6f20dd437663656f80))
+
 ## [3.0.0](https://github.com/jackchoumine/pics/compare/v2.1.0...v3.0.0) (2024-08-08)
 
 
