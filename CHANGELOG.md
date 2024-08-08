@@ -1,5 +1,12 @@
 
 
+## [4.3.0](https://github.com/jackchoumine/pics/compare/v4.2.5...v4.3.0) (2024-08-08)
+
+
+### ✨新增功能
+
+* git commit 规范例子 ([46b2f42](https://github.com/jackchoumine/pics/commit/46b2f4244d30192eb8af992fbcb441b78a66e34f))
+
 ## [4.2.5](https://github.com/jackchoumine/pics/compare/v4.2.4...v4.2.5) (2024-08-08)
 
 
