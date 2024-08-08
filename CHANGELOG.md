@@ -1,5 +1,14 @@
 
 
+## [4.2.4](https://github.com/jackchoumine/pics/compare/v4.2.3...v4.2.4) (2024-08-08)
+
+
+### ✨新增功能
+
+* 配置commitlint和husky ([12747ec](https://github.com/jackchoumine/pics/commit/12747ecb0a2fdc109be2f25d8fe1dde4446223da))
+* 添加emoji ([674161b](https://github.com/jackchoumine/pics/commit/674161b1260a041dbcc461665fbc2cc702f5d826))
+* 新增功能 ([1307104](https://github.com/jackchoumine/pics/commit/13071042535bf7bfe0401d3c15a9ccf6396325bb))
+
 ## [4.2.3](https://github.com/jackchoumine/pics/compare/v4.2.1...v4.2.3) (2024-08-08)
 
 ## [4.2.2](https://github.com/jackchoumine/pics/compare/v4.2.1...v4.2.2) (2024-08-08)
