@@ -28,6 +28,10 @@
           {
             "type": "docs",
             "section": "📚文档"
+          },
+          {
+            "type": "BREAKING CHANGE",
+            "section": "💥重大变更"
           }
         ]
       }
