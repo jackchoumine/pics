@@ -2,17 +2,14 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-08-07 16:41:34
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-08-08 17:10:10
+ * @LastEditTime: 2024-08-08 17:41:46
  * @Description : git cz 配置文件
  */
 module.exports = {
   types: [
     { value: 'feat', name: '    feat: 新增功能' },
     { value: 'fix', name: '     fix: 修复问题' },
-    {
-      value: 'refactor',
-      name: 'refactor: 重构(既不是增加feature，也不是修复bug)',
-    },
+    { value: 'refactor', name: 'refactor: 重构(既不是增加feature，也不是修复bug)' },
     {
       value: 'perf',
       name: '    perf: 性能优化(类似重构，不改变接口，比如：减少内存占用、增加缓存)',

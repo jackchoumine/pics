@@ -19,15 +19,15 @@
         "types": [
           {
             "type": "feat",
-            "section": "✨新功能"
+            "section": "✨新增功能"
           },
           {
             "type": "fix",
-            "section": "🐛问题修复"
+            "section": "🐛修复bug"
           },
           {
             "type": "docs",
-            "section": "📚文档"
+            "section": "📚更新文档"
           },
           {
             "type": "BREAKING CHANGE",
