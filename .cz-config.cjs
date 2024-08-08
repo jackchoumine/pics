@@ -2,7 +2,7 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-08-07 16:41:34
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-08-08 17:41:46
+ * @LastEditTime: 2024-08-08 19:19:42
  * @Description : git cz 配置文件
  */
 module.exports = {
