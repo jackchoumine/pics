@@ -17,3 +17,5 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/Globe-Earth-land-distortion-projec
 ![](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/Globe-Earth-land-distortion-projection-Mercator-latitudes.webp)
 
 ![](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/simple-cylindrical-projection-earth-map-globe-mercator.webp)
+
+## 测试日志
