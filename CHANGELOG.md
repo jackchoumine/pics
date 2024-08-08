@@ -1,5 +1,17 @@
 
 
+# [2.0.0](https://github.com/jackchoumine/pics/compare/v1.4.0...v2.0.0) (2024-08-08)
+
+
+### Features
+
+* **readme:** 测试破坏性更新 ([c00d5bc](https://github.com/jackchoumine/pics/commit/c00d5bcba31382f9d34d9caf760e9ec9f1dd3b88))
+
+
+### BREAKING CHANGES
+
+* **readme:** BREAKING CHANGE\
+
 # [1.4.0](https://github.com/jackchoumine/pics/compare/v1.3.9...v1.4.0) (2024-08-08)
 
 
