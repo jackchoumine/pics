@@ -4,7 +4,7 @@
     "release": true
   },
   "git": {
-    "commitMessage": "chore: release v${version}"
+    "commitMessage": "🔖release: v${version}"
   },
   "npm": {
     "publish": false

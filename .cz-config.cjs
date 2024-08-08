@@ -2,7 +2,7 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-08-07 16:41:34
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-08-08 16:35:35
+ * @LastEditTime: 2024-08-08 16:40:31
  * @Description : git cz 配置文件
  */
 module.exports = {
@@ -25,6 +25,7 @@ module.exports = {
     { value: '🔨build', name: '   build: 构建相关的改动' },
     { value: '👷ci', name: '      ci: ci/cd相关的配置改动' },
     { value: '🔧chore', name: '   chore: 其他改动非 src 或测试的改动' },
+    { value: '🔖release', name: ' release: 发布版本' },
   ],
   // override the messages, defaults are as follows
   messages: {
