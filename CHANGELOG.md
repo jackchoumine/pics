@@ -1,5 +1,12 @@
 
 
+## [4.2.5](https://github.com/jackchoumine/pics/compare/v4.2.4...v4.2.5) (2024-08-08)
+
+
+### 📚更新文档
+
+* 删除不用的说明 ([8b9c8df](https://github.com/jackchoumine/pics/commit/8b9c8dfe5c8e822b3d805d4acaf018bb75973aac))
+
 ## [4.2.4](https://github.com/jackchoumine/pics/compare/v4.2.3...v4.2.4) (2024-08-08)
 
 
