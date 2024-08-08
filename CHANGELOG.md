@@ -1,5 +1,12 @@
 
 
+## [2.1.0](https://github.com/jackchoumine/pics/compare/v2.0.0...v2.1.0) (2024-08-08)
+
+
+### ✨新功能
+
+* 图标日志 ([44d2530](https://github.com/jackchoumine/pics/commit/44d2530be8f41924bf441f03e2df11d5003c485f))
+
 # [2.0.0](https://github.com/jackchoumine/pics/compare/v1.4.0...v2.0.0) (2024-08-08)
 
 
