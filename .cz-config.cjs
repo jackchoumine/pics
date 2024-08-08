@@ -2,33 +2,33 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-08-07 16:41:34
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-08-08 17:05:59
+ * @LastEditTime: 2024-08-08 17:10:10
  * @Description : git cz 配置文件
  */
 module.exports = {
   types: [
-    { value: ':sparkles:feat', name: '    feat: 新增功能' },
-    { value: '🐛fix', name: '     fix: 修复问题' },
+    { value: 'feat', name: '    feat: 新增功能' },
+    { value: 'fix', name: '     fix: 修复问题' },
     {
-      value: ':recycle:refactor',
+      value: 'refactor',
       name: 'refactor: 重构(既不是增加feature，也不是修复bug)',
     },
     {
-      value: ':zap:perf',
+      value: 'perf',
       name: '    perf: 性能优化(类似重构，不改变接口，比如：减少内存占用、增加缓存)',
     },
-    { value: ':twisted_rightwards_arrows:merge', name: '   merge: 合并分支' },
-    { value: ':white_check_mark:test', name: '    test: 增加或者修改测试' },
+    { value: 'merge', name: '   merge: 合并分支' },
+    { value: 'test', name: '    test: 增加或者修改测试' },
     {
-      value: ':art:format',
+      value: 'format',
       name: '  format: 格式化代码(不影响代码运行的变动，仅仅修改代码格式)',
     },
-    { value: ':memo:docs', name: '    docs: 文档变更(文档变更、代码注释等)' },
-    { value: ':rewind:revert', name: '  revert: 版本回滚' },
-    { value: ':hammer:build', name: '   build: 构建相关的改动' },
-    { value: ':construction_worker:ci', name: '      ci: ci/cd相关的配置改动' },
-    { value: ':wrench:chore', name: '   chore: 其他改动非 src 或测试的改动' },
-    { value: ':bookmark:release', name: ' release: 发布版本' },
+    { value: 'docs', name: '    docs: 文档变更(文档变更、代码注释等)' },
+    { value: 'revert', name: '  revert: 版本回滚' },
+    { value: 'build', name: '   build: 构建相关的改动' },
+    { value: 'ci', name: '      ci: ci/cd相关的配置改动' },
+    { value: 'chore', name: '   chore: 其他改动非 src 或测试的改动' },
+    { value: 'release', name: ' release: 发布版本' },
   ],
   // override the messages, defaults are as follows
   messages: {
