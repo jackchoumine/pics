@@ -1,5 +1,16 @@
 
 
+## [3.0.0](https://github.com/jackchoumine/pics/compare/v2.1.0...v3.0.0) (2024-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* 测试重大变更
+
+### 🐛问题修复
+
+* 测试重大变更日志 ([bba5250](https://github.com/jackchoumine/pics/commit/bba52506f4d3634e3f9666c4bb3c019535d34a85))
+
 ## [2.1.0](https://github.com/jackchoumine/pics/compare/v2.0.0...v2.1.0) (2024-08-08)
 
 
