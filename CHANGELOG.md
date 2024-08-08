@@ -1,5 +1,12 @@
 
 
+## [4.2.0](https://github.com/jackchoumine/pics/compare/v4.1.0...v4.2.0) (2024-08-08)
+
+
+### ✨新功能
+
+* 使用cz-customizable 替换 cz-conventional-changelog ([1929332](https://github.com/jackchoumine/pics/commit/1929332dede36303fd8cf6905b8a302dfafa4203))
+
 ## [4.1.0](https://github.com/jackchoumine/pics/compare/v4.0.0...v4.1.0) (2024-08-08)
 
 
