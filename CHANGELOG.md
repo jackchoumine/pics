@@ -1,5 +1,12 @@
 
 
+## [4.1.0](https://github.com/jackchoumine/pics/compare/v4.0.0...v4.1.0) (2024-08-08)
+
+
+### ✨新功能
+
+* 配置 husky 和 commitlint 检查提交信息 ([038ec9d](https://github.com/jackchoumine/pics/commit/038ec9dcbff84cbc3165094dcfa2b9916aab9de2))
+
 ## [4.0.0](https://github.com/jackchoumine/pics/compare/v3.0.0...v4.0.0) (2024-08-08)
 
 
