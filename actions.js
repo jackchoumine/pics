@@ -2,7 +2,7 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-10-24 11:21:36
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-10-24 11:56:58
+ * @LastEditTime: 2024-10-24 12:09:02
  * @Description : 遍历文件夹下的所有文件
  */
 const fs = require('fs')
@@ -12,6 +12,8 @@ const path = require('path')
 function traverseDirectory(
   dir,
   fileExtensions = ['png', 'jpg', 'jpeg', 'gif', 'svg', 'gif'],
+  // 排除
+  excludes = ['函数没传递参数'],
   fileList = []
 ) {
   const ignorePath = ['.git', 'node_modules', 'dist', '.vscode', '.idea', '.history']
@@ -25,11 +27,13 @@ function traverseDirectory(
 
       if (stats.isDirectory()) {
         // 如果是目录，递归遍历
-        traverseDirectory(filePath, fileExtensions, fileList)
+        traverseDirectory(filePath, fileExtensions, excludes, fileList)
       } else {
         const ex = parseFileExtension(filePath)
+        const parts = filePath.split('\\')
+        const fileName = parts[parts.length - 1].replace(`.${ex}`, '')
         // 如果是图片文件，添加到列表
-        if (fileExtensions.includes(ex)) {
+        if (fileExtensions.includes(ex) && !excludes.includes(fileName)) {
           fileList.push(filePath)
         }
       }

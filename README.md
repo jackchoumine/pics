@@ -52,10 +52,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png
 ```
 ![保存是比较慢.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png)
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png
-```
-![函数没传递参数.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png)
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png
 ```
 ![单引号搜索结果.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png)
