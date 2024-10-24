@@ -62,10 +62,10 @@ const allLinks = files
     const code = `\`\`\`bash\n${link}\n\`\`\``
     if (!startWith || startWith !== start) {
       startWith = start
-      return `## ${startWith}\n${code}\n${mdLink}`
+      return `## ${startWith}\n${code}\n${mdLink}\n`
     }
 
-    return `\n${code}\n${mdLink}`
+    return `\n${code}\n${mdLink}\n`
   })
   .join('')
 
