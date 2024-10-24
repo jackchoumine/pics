@@ -25,6 +25,10 @@
     "registry": "https://registry.npmjs.org/",
     "provenance": true
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackchoumine/pics.git"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-customizable"
