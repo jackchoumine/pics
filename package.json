@@ -21,6 +21,10 @@
     "husky": "^9.1.4",
     "release-it": "^17.6.0"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "provenance": true
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-customizable"
