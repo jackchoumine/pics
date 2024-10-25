@@ -265,6 +265,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/fig-wmts-server.png
 ![fig-wmts-server.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/fig-wmts-server.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-interaction-extent-2.gif
+```
+![ol-interaction-extent-2.gif](https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-interaction-extent-2.gif)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-show-pointer-info.gif
 ```
 ![ol-show-pointer-info.gif](https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-show-pointer-info.gif)
