@@ -65,6 +65,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png
 ![保存是比较慢.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png
+```
+![函数没传递参数.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png
 ```
 ![单引号搜索结果.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png)
@@ -195,6 +200,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png
 ![级联层的样式失效.png](https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png)
 ## js
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
+```
+![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png
 ```
 ![async脚本.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png)
@@ -218,11 +228,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/js/jQuery-promise.png
 https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png
 ```
 ![promise-state.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
-```
-![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/script-load-run.png
@@ -350,6 +355,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png
 ![EPSG4490.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png
+```
+![bian-chang.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-layer-svg-2.png
 ```
 ![image-static-layer-svg-2.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-layer-svg-2.png)
@@ -365,6 +375,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-svg-layer.png
 ![image-static-svg-layer.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-svg-layer.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/ol-ImageStatic.png
+```
+![ol-ImageStatic.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/ol-ImageStatic.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/ol-overviewmap.gif
 ```
 ![ol-overviewmap.gif](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/ol-overviewmap.gif)
@@ -378,11 +393,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/ol-经纬度图层.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/query-system-preparation-web-gis.png
 ```
 ![query-system-preparation-web-gis.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/query-system-preparation-web-gis.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/usa-states-ImageStatic.png
-```
-![usa-states-ImageStatic.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/usa-states-ImageStatic.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/usa-states-TileWMS.png
@@ -403,6 +413,31 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/vector-source-layer-topojson.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/vector-source-layer.png
 ```
 ![vector-source-layer.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/vector-source-layer.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-bian-xing.png
+```
+![wu-bian-xing.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-bian-xing.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-bian-xing2.png
+```
+![wu-bian-xing2.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-bian-xing2.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-jiao-xing.png
+```
+![wu-jiao-xing.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/wu-jiao-xing.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing-1.png
+```
+![zheng-fang-xing-1.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing-1.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing2.png
+```
+![zheng-fang-xing2.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing2.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png
