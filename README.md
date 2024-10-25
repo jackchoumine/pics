@@ -65,11 +65,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png
 ![保存是比较慢.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/保存是比较慢.png)
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png
-```
-![函数没传递参数.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/函数没传递参数.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png
 ```
 ![单引号搜索结果.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/单引号搜索结果.png)
@@ -103,6 +98,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/属性顺序混乱.png
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/接口扩展的好处.png
 ```
 ![接口扩展的好处.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/接口扩展的好处.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/有问题的代码提交上来.png
+```
+![有问题的代码提交上来.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/有问题的代码提交上来.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/样式重复-1.png
@@ -200,11 +200,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png
 ![级联层的样式失效.png](https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png)
 ## js
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
-```
-![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png
 ```
 ![async脚本.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png)
@@ -228,6 +223,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/js/jQuery-promise.png
 https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png
 ```
 ![promise-state.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
+```
+![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/script-load-run.png
@@ -345,6 +345,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/4326.png
 ![4326.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/4326.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png
+```
+![bian-chang.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png
 ```
 ![CSS.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png)
@@ -353,11 +358,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png
 ```
 ![EPSG4490.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png
-```
-![bian-chang.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-layer-svg-2.png
