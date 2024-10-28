@@ -46,11 +46,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png
 ![let意外重置导致的bug.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png)
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/code-style/QQ20241028-103509.png
-```
-![QQ20241028-103509.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/QQ20241028-103509.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/too-length-264列.png
 ```
 ![too-length-264列.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/too-length-264列.png)

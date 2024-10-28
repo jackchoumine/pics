@@ -2,11 +2,13 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-10-24 11:21:36
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-10-28 02:12:05
+ * @LastEditTime: 2024-10-28 10:53:01
  * @Description : 遍历文件夹下的所有文件
  */
 const fs = require('fs')
 const path = require('path')
+
+const { exec } = require('child_process')
 
 // 递归遍历目录下的所有文件
 function traverseDirectory(
@@ -77,4 +79,14 @@ function parseFileExtension(fileName) {
   return fileName.slice(((fileName.lastIndexOf('.') - 1) >>> 0) + 2)
 }
 
-console.log('README.md 文件已更新')
+exec('git add ./README.md', (err, stdout, stderr) => {
+  // console.log({
+  //   err,
+  //   stdout,
+  //   stderr,
+  // })
+  if (!err) {
+    console.log('README 已经更新')
+  }
+  // handle err, stdout & stderr
+})
