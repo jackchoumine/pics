@@ -76,3 +76,5 @@ fs.writeFileSync('README.md', allLinks)
 function parseFileExtension(fileName) {
   return fileName.slice(((fileName.lastIndexOf('.') - 1) >>> 0) + 2)
 }
+
+console.log('README.md 文件已更新')
