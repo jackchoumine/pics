@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "updateMD": "node ./action.js",
+    "updateMD": "node actions.js",
     "prepare": "husky"
   },
   "keywords": [],
