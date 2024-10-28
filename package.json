@@ -7,8 +7,7 @@
   "scripts": {
     "updateMD": "node actions.js",
     "prepush": "npm version patch",
-    "push": "node push.js",
-    "prepare": "husky"
+    "push": "node push.js"
   },
   "keywords": [],
   "author": "",
