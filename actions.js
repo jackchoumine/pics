@@ -2,7 +2,7 @@
  * @Author      : ZhouQiJun
  * @Date        : 2024-10-24 11:21:36
  * @LastEditors : ZhouQiJun
- * @LastEditTime: 2024-10-28 11:20:03
+ * @LastEditTime: 2024-10-28 11:22:33
  * @Description : 遍历文件夹下的所有文件
  */
 const fs = require('fs')
@@ -87,7 +87,11 @@ exec('git add ./README.md', (err, stdout, stderr) => {
   // })
   if (!err) {
     console.log('README 已经更新')
-    exec('git commit -m "更新 README"')
+    exec('git commit -m "更新 README"', (err, stdout, stderr) => {
+      if (!err) {
+        console.log('README 已经提交')
+      }
+    })
   }
   // handle err, stdout & stderr
 })
