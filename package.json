@@ -1,12 +1,13 @@
 {
   "name": "zqj-pics",
-  "version": "4.3.44",
+  "version": "4.3.41",
   "private": false,
   "description": "",
   "main": "index.js",
   "scripts": {
     "updateMD": "node actions.js",
-    "push": "npm version patch && node push.js",
+    "push": "npm version patch",
+    "postpush": "node push.js",
     "prepare": "husky"
   },
   "keywords": [],
