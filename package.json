@@ -6,8 +6,8 @@
   "main": "index.js",
   "scripts": {
     "updateMD": "node actions.js",
-    "push": "npm version patch",
-    "postpush": "node push.js",
+    "prepush": "npm version patch",
+    "push": "node push.js",
     "prepare": "husky"
   },
   "keywords": [],
