@@ -1,11 +1,13 @@
 {
   "name": "zqj-pics",
-  "version": "4.3.17",
+  "version": "4.3.105",
   "private": false,
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "updateMD": "node actions.js",
+    "prepush": "npm version patch",
+    "push": "node push.js"
   },
   "keywords": [],
   "author": "",
@@ -25,5 +27,8 @@
     "cz-customizable": {
       "config": "./.cz-config.cjs"
     }
+  },
+  "devDependencies": {
+    "husky": "^9.1.6"
   }
 }
