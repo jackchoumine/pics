@@ -285,6 +285,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/js/阻塞型脚本.png
 ## ol
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/egm96.png
+```
+![egm96.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/egm96.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/fig-wmts-server.png
 ```
 ![fig-wmts-server.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/fig-wmts-server.png)
@@ -365,9 +370,29 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png
 ![WMTS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/参考椭球体.png
+```
+![参考椭球体.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/参考椭球体.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/图层叠加.png
 ```
 ![图层叠加.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/图层叠加.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/地理坐标系.png
+```
+![地理坐标系.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/地理坐标系.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/我国常用坐标系.png
+```
+![我国常用坐标系.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/我国常用坐标系.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/椭球元素.png
+```
+![椭球元素.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/椭球元素.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/瓦片坐标系.png
@@ -378,6 +403,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/瓦片坐标系.png
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/瓦片金字塔.png
 ```
 ![瓦片金字塔.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/瓦片金字塔.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/高德地图测绘许可证.png
+```
+![高德地图测绘许可证.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/高德地图测绘许可证.png)
 ## vue2
 
 ```bash
