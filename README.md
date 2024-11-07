@@ -385,6 +385,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png
 ![WMTS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/zxy.png
+```
+![zxy.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/zxy.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/参考椭球体.png
 ```
 ![参考椭球体.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/参考椭球体.png)
@@ -581,8 +586,3 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing2.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png
 ```
 ![zoomFactor.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zxy.png
-```
-![zxy.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zxy.png)
