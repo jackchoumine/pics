@@ -14,6 +14,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/cesium-init.png
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png
 ```
 ![controls.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcwmsLayer.gif
+```
+![ogcwmsLayer.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcwmsLayer.gif)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/singleImageLayer.gif
+```
+![singleImageLayer.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/singleImageLayer.gif)
 ## code-style
 
 ```bash
