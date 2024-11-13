@@ -16,9 +16,9 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png
 ![controls.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png)
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms.gif
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms-2.gif
 ```
-![ogcWms.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms.gif)
+![ogcWms-2.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms-2.gif)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcwmts.gif
