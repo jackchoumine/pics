@@ -16,11 +16,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png
 ![controls.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png)
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/cesium/enablePickerFeatures.png
-```
-![enablePickerFeatures.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/enablePickerFeatures.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcwmsLayer.gif
 ```
 ![ogcwmsLayer.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcwmsLayer.gif)
