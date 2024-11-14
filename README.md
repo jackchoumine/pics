@@ -31,6 +31,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/singleImageLayer.gif
 ![singleImageLayer.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/singleImageLayer.gif)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-grid.png
+```
+![terrain-grid.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-grid.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-ok.png
+```
+![terrain-ok.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-ok.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/坐标系.png
 ```
 ![坐标系.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/坐标系.png)
