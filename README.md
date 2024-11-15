@@ -16,6 +16,21 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png
 ![controls.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/controls.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-geojson.gif
+```
+![load-geojson.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-geojson.gif)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-kml.gif
+```
+![load-kml.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-kml.gif)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-topogeojson.gif
+```
+![load-topogeojson.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/load-topogeojson.gif)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms-2.gif
 ```
 ![ogcWms-2.gif](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ogcWms-2.gif)
@@ -328,6 +343,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/fig-wmts-server.png
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/first-map-in-browser.png
 ```
 ![first-map-in-browser.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/first-map-in-browser.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoJSON-topoJSON.png
+```
+![geoJSON-topoJSON.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoJSON-topoJSON.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/gis-grow.png
