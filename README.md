@@ -471,6 +471,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/kml-folder.png
 ![kml-folder.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/kml-folder.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/line-dash-offset.gif
+```
+![line-dash-offset.gif](https://cdn.jsdelivr.net/npm/zqj-pics/ol/line-dash-offset.gif)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/load-kml.png
 ```
 ![load-kml.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/load-kml.png)
