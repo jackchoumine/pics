@@ -372,6 +372,17 @@ https://cdn.jsdelivr.net/npm/zqj-pics/css/shi-xiao-sheng-ming.png
 https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png
 ```
 ![级联层的样式失效.png](https://cdn.jsdelivr.net/npm/zqj-pics/css/级联层的样式失效.png)
+## git
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/git/element-plus-github.png
+```
+![element-plus-github.png](https://cdn.jsdelivr.net/npm/zqj-pics/git/element-plus-github.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/git/lodash.png
+```
+![lodash.png](https://cdn.jsdelivr.net/npm/zqj-pics/git/lodash.png)
 ## issues
 
 ```bash
