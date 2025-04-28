@@ -1,2 +1,3 @@
 npm run updateMD
+npm version --no-git-tag-version patch
 git add .
