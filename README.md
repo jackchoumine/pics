@@ -22,11 +22,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/Cesium+API结构.png
 ![Cesium+API结构.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/Cesium+API结构.png)
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ViewFrustum.png
-```
-![ViewFrustum.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ViewFrustum.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/cesium-init.png
 ```
 ![cesium-init.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/cesium-init.png)
@@ -112,6 +107,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-ok.png
 ![terrain-ok.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/terrain-ok.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ViewFrustum.png
+```
+![ViewFrustum.png](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/ViewFrustum.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/cesium/wgs84-2.jpg
 ```
 ![wgs84-2.jpg](https://cdn.jsdelivr.net/npm/zqj-pics/cesium/wgs84-2.jpg)
@@ -181,6 +181,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/css.sourceMap不生效.png
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/error-syntax.png
 ```
 ![error-syntax.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/error-syntax.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/has-semi-vs-no-semi.png
+```
+![has-semi-vs-no-semi.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/has-semi-vs-no-semi.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/husky-run.png
@@ -397,11 +402,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/issues/unocss和element-plus自动导入�
 ## js
 
 ```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
-```
-![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
-
-```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png
 ```
 ![async脚本.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/async脚本.png)
@@ -425,6 +425,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/js/jQuery-promise.png
 https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png
 ```
 ![promise-state.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/promise-state.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png
+```
+![RFC3339VSISO8601.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/RFC3339VSISO8601.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/js/script-load-run.png
@@ -456,21 +461,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/js/阻塞型脚本.png
 ```
 ![阻塞型脚本.png](https://cdn.jsdelivr.net/npm/zqj-pics/js/阻塞型脚本.png)
 ## ol
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/ol/TileMatrixSets.png
-```
-![TileMatrixSets.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/TileMatrixSets.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMS_clientserver.png
-```
-![WMS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMS_clientserver.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png
-```
-![WMTS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/egm96.png
@@ -598,6 +588,21 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/style-se-kuai.png
 ![style-se-kuai.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/style-se-kuai.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/TileMatrixSets.png
+```
+![TileMatrixSets.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/TileMatrixSets.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMS_clientserver.png
+```
+![WMS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMS_clientserver.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png
+```
+![WMTS_clientserver.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/WMTS_clientserver.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/zxy.png
 ```
 ![zxy.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/zxy.png)
@@ -717,6 +722,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/4326.png
 ![4326.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/4326.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png
+```
+![bian-chang.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png
 ```
 ![CSS.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png)
@@ -725,11 +735,6 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/CSS.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png
 ```
 ![EPSG4490.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/EPSG4490.png)
-
-```bash
-https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png
-```
-![bian-chang.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/bian-chang.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/image-static-layer-svg-2.png
