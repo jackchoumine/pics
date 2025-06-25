@@ -356,6 +356,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/语法错误-多一个尖括号
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/重置el组件样式-其实只需重置变量即可.png
 ```
 ![重置el组件样式-其实只需重置变量即可.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/重置el组件样式-其实只需重置变量即可.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/错误语法.png
+```
+![错误语法.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/错误语法.png)
 ## css
 
 ```bash
