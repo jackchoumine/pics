@@ -825,3 +825,8 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zheng-fang-xing2.png
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png
 ```
 ![zoomFactor.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/需求生命周期.png
+```
+![需求生命周期.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/需求生命周期.png)
