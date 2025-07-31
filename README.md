@@ -667,6 +667,17 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ui/title-dot.png
 https://cdn.jsdelivr.net/npm/zqj-pics/ui/title-top.png
 ```
 ![title-top.png](https://cdn.jsdelivr.net/npm/zqj-pics/ui/title-top.png)
+## vite
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunck__after_2025-07-31.png
+```
+![manualChunck__after_2025-07-31.png](https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunck__after_2025-07-31.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunk_before_2025-07-31.png
+```
+![manualChunk_before_2025-07-31.png](https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunk_before_2025-07-31.png)
 ## vue2
 
 ```bash
