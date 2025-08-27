@@ -513,6 +513,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/load-kml.png
 ![load-kml.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/load-kml.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-ext-mask-1.png
+```
+![ol-ext-mask-1.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-ext-mask-1.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-interaction-draw.gif
 ```
 ![ol-interaction-draw.gif](https://cdn.jsdelivr.net/npm/zqj-pics/ol/ol-interaction-draw.gif)
@@ -656,6 +661,22 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/瓦片金字塔.png
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/高德地图测绘许可证.png
 ```
 ![高德地图测绘许可证.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/高德地图测绘许可证.png)
+## playwright
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/playwright/实际的截图.png
+```
+![实际的截图.png](https://cdn.jsdelivr.net/npm/zqj-pics/playwright/实际的截图.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/playwright/快照差异.png
+```
+![快照差异.png](https://cdn.jsdelivr.net/npm/zqj-pics/playwright/快照差异.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/playwright/期望的渲染结果.png
+```
+![期望的渲染结果.png](https://cdn.jsdelivr.net/npm/zqj-pics/playwright/期望的渲染结果.png)
 ## ui
 
 ```bash
@@ -678,6 +699,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunck__after_2025-07-31.png
 https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunk_before_2025-07-31.png
 ```
 ![manualChunk_before_2025-07-31.png](https://cdn.jsdelivr.net/npm/zqj-pics/vite/manualChunk_before_2025-07-31.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/vite/打包分析-1.png
+```
+![打包分析-1.png](https://cdn.jsdelivr.net/npm/zqj-pics/vite/打包分析-1.png)
 ## vue2
 
 ```bash
