@@ -864,6 +864,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png
 ![zoomFactor.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/zoomFactor.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/层级规律-bug.png
+```
+![层级规律-bug.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/层级规律-bug.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/层级规律.png
 ```
 ![层级规律.png](https://cdn.jsdelivr.net/npm/zqj-pics/web-gis/层级规律.png)
