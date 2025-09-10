@@ -158,6 +158,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-import.png
 ![better-import.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-import.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-space-diff.png
+```
+![better-space-diff.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-space-diff.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-space-same.png
+```
+![better-space-same.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-space-same.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/code-顺序-bad.png
 ```
 ![code-顺序-bad.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/code-顺序-bad.png)
