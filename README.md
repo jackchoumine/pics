@@ -208,6 +208,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/id选择器特异性太高.png
 ![id选择器特异性太高.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/id选择器特异性太高.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/import-mess-bad.png
+```
+![import-mess-bad.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/import-mess-bad.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/import-mess-better.png
+```
+![import-mess-better.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/import-mess-better.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png
 ```
 ![let意外重置导致的bug.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png)
