@@ -228,6 +228,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/props-type-error.png
 ![props-type-error.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/props-type-error.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/same-person-better.png
+```
+![same-person-better.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/same-person-better.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/same-person-mess.png
+```
+![same-person-mess.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/same-person-mess.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/too-length-264列.png
 ```
 ![too-length-264列.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/too-length-264列.png)
