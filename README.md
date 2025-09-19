@@ -223,6 +223,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png
 ![let意外重置导致的bug.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-id.png
+```
+![no-id.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-id.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/props-type-error.png
 ```
 ![props-type-error.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/props-type-error.png)
