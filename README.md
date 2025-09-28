@@ -153,6 +153,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/bad-import.png
 ![bad-import.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/bad-import.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/bad-style-1.png
+```
+![bad-style-1.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/bad-style-1.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-import.png
 ```
 ![better-import.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/better-import.png)
@@ -193,6 +198,26 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/error-syntax.png
 ![error-syntax.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/error-syntax.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-check-pass.png
+```
+![eslint-check-pass.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-check-pass.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-dupe-keys-info.png
+```
+![eslint-dupe-keys-info.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-dupe-keys-info.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-fix-it-from-report.png
+```
+![eslint-fix-it-from-report.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-fix-it-from-report.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-run.png
+```
+![eslint-run.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/eslint-run.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/has-semi-vs-no-semi.png
 ```
 ![has-semi-vs-no-semi.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/has-semi-vs-no-semi.png)
@@ -226,6 +251,16 @@ https://cdn.jsdelivr.net/npm/zqj-pics/code-style/let意外重置导致的bug.png
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-id.png
 ```
 ![no-id.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-id.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-var-error.png
+```
+![no-var-error.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/no-var-error.png)
+
+```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/code-style/prettier-error.png
+```
+![prettier-error.png](https://cdn.jsdelivr.net/npm/zqj-pics/code-style/prettier-error.png)
 
 ```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/code-style/props-type-error.png
