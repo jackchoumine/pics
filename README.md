@@ -620,6 +620,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/gis-software.png
 ![gis-software.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/gis-software.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/interaction.png
+```
+![interaction.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/interaction.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/kml-folder.png
 ```
 ![kml-folder.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/kml-folder.png)

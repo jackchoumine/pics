@@ -1,3 +1,10 @@
+/*
+ * @Author      : ZhouQiJun
+ * @Date        : 2024-11-14 00:17:48
+ * @LastEditors : ZhouQiJun
+ * @LastEditTime: 2025-12-17 20:18:10
+ * @Description :
+ */
 const { exec } = require('child_process')
 let interval = 5000
 repeat((stop, times) => {
