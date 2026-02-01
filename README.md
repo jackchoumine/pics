@@ -610,6 +610,11 @@ https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoJSON-topoJSON.png
 ![geoJSON-topoJSON.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoJSON-topoJSON.png)
 
 ```bash
+https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoid.png
+```
+![geoid.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/geoid.png)
+
+```bash
 https://cdn.jsdelivr.net/npm/zqj-pics/ol/gis-grow.png
 ```
 ![gis-grow.png](https://cdn.jsdelivr.net/npm/zqj-pics/ol/gis-grow.png)
